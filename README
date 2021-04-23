@@ -1,3 +1,4 @@
 Only coding assignments are included in this repository.
 
-Note: any code using file IO uses file paths realtive to MY computer. If you want to test the files on your own machine, the file paths for the input files (ex. .txt or .csv files) will need to be adjusted to where you have saved the input files.
+Note: any code using file IO uses file paths realtive to MY computer. If you want to test the files on your own machine, the file paths for the input files (ex. .txt or 
+.csv files) will need to be adjusted to where you have saved the input files.
