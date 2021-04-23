@@ -1,0 +1,8 @@
+AddL(root,d)
+AddM(root,b)
+AddR(root,a)
+AddL(d,a)
+AddM(a,c)
+AddM(b,e)
+AddM(a,$f)
+Print()
