@@ -1,0 +1,8 @@
+Final project for ENGG 233, an introductory coding course for engineers. The class was done using Processing, a software that uses simplified Java for coding.
+
+The final project consisted of using file I/O to read weather information over several years and using the Swing library to create a GUI for bar graphs and scatter plots. 
+GUI buttons were also utilized for additional functionalities, including:
+ - Allowing users to switch between scatter plots and bar graphs
+ - Allowing users to specify a date range for weather statistics
+ - Only showing positive or negative temperatures for the entire date range
+ - Showing weather statistics for a selected month (ex. only for September)
